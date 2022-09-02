@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Practice UX Case Study 1",
+    "desc": "A UX Case study tells the story of how you create a great website or app and, in particular, what you do to improve",
+    "date": "2 september 2022",
+    "start": "2 september 2022 07:00",
+    "end": "3 september 2022 12:00",
+    "status": "To do"
+  },
+  {
+    "id": "2",
+    "title": "English Class 2",
+    "desc": "2 A UX Case study tells the story of how you create a great website or app and, in particular, what you do to improve",
+    "date": "2 september 2022",
+    "start": "2 september 2022 07:30",
+    "end": "3 september 2022 12:30",
+    "status": "Done"
+  },
+  {
+    "id": "3",
+    "title": "Holiday",
+    "desc": "2 A UX Case study tells the story of how you create a great website or app and, in particular, what you do to improve",
+    "date": "2 september 2022",
+    "start": "2 september 2022 07:45",
+    "end": "3 september 2022 12:45",
+    "status": "Doing"
+  },
+  {
+    "id": "4",
+    "title": "English Class 9",
+    "desc": "2 A UX Case study tells the story of how you create a great website or app and, in particular, what you do to improve",
+    "date": "2 september 2022",
+    "start": "2 september 2022 07:30",
+    "end": "3 september 2022 12:30",
+    "status": "Done"
+  },
+  {
+    "id": "5",
+    "title": "Practice UX Case Study 2",
+    "desc": "A UX Case study tells the story of how you create a great website or app and, in particular, what you do to improve",
+    "date": "2 september 2022",
+    "start": "2 september 2022 07:00",
+    "end": "3 september 2022 12:00",
+    "status": "To do"
+  }
+]
